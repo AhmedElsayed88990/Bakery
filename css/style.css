@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header h1{
+    color: white;
+    margin-left: 50px;
+}
+.shi{
+    width: 40px;
+    height: 40px;
+   margin-top: 20px;
+}
+.basic{
+    background-image: url(../images/bakery-bread-basket-3jxe0vpqmybsysci.jpg);
+background-size: cover;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    }
+nav li{
+    margin-right: 30px;
+}
+nav li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.heros{
+   
+    color: #fff;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    
+    text-align: center;
+}
+.hero h2{
+    font-size: 100px;
+}
+.hero p{
+    font-size: 35px;
+}
+.hero .ahla{
+    background-color: #f8b400;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 20px;
+}
+.hero .ahlaa{
+border: 2px solid white;
+
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 20px;
+}
+.image1{
+width: 60%;
+display: block;
+margin: auto;
+margin-top: 30px;
+}
+
+
+.pheno h2{
+    text-align: center;
+   font-size: 50px;
+}
+.pheno p{
+    margin: 30px 100px;
+}
+.pheno ul{
+    margin-left: 110px;
+    text-decoration: none;
+    list-style: none;
+}
+.makbz{
+    margin-top: 30px;
+    background-color: beige;
+}
+.makbz h2{
+    text-align: center;
+    font-size: 50px;
+    }
+    .makbz p{
+        margin: 10px 50px;
+    }
+    .makbz .image2{
+        width: 60%;
+display: block;
+margin: auto;
+margin-top: 30px;
+    }
+    .group{
+        margin-top: 30px;
+    }
+    .group h2{
+        text-align: center;
+        font-size: 40px;
+    }
+    .group p{
+        text-align: center;
+    }
+    img{
+    width: 100%;
+}
+.namee{
+    width: 30%;
+    display: inline-block;
+    padding: 20px;
+    margin: 15px;
+}
+.contact{
+    background-color: beige;
+}
+.contact h2{
+    text-align: center;
+    font-size: 40px;
+    }
+    .contact p{
+        margin: 0px 40px;
+    }
+    .contact ul{
+        margin: 0px 50px;
+        list-style: none;
+    }
+    .map-container {
+        width: 100%;
+        max-width: 800px;
+        margin: auto;
+        padding: 10px;
+      }
+  
+      iframe {
+        width: 100%;
+        height: 450px;
+        border: 0;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .hh{
+        background-color: #333;
+        color: gray;
+        padding: 20px;
+      }
+      .foo{
+        width: 40%;
+        display: inline-block;
+        padding: 20px;
+        margin: 15px;
+      }
+      footer{
+        background-color: black;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+     .pos{
+        position: fixed;
+        margin-top: 30px;
+     }
+  .pp{
+    position: fixed;
+    margin-left: 620px;
+    margin-top: 30px;
+  }
+  .foo p{
+    text-decoration: underline;
+  }
+  
+      
